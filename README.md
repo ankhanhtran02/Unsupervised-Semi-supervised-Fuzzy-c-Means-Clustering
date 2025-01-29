@@ -19,7 +19,7 @@ To infer an image, follow these steps:
    ```cd Unsupervised-Semi-supervised-Fuzzy-c-Means-Clustering```
 3. Run the app:\
    ```python3 app.py```
-4. You should see a new tab pop up on your browser. Choose your configurations and click "Run Algorithm".\\
+4. You should see a new tab pop up on your browser. Choose your configurations and click "Run Algorithm".\
    A view of the user interface:
    ![cluster_ui](assets/cluster_ui.png)
    
