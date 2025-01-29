@@ -20,6 +20,6 @@ To infer an image, follow these steps:
 3. Run the app:\
    ```python3 app.py```
 You should see a tab pop up on your browser like below:
-![App_User_Interface](assets/App_User_Interface.png)
+![cluster_ui](assets/cluster_ui.png)
 4. Choose your configurations and click "Run Algorithm".
 
